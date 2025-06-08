@@ -25,7 +25,6 @@ A full-featured backend for an e-commerce application built using **Node.js**, *
 - **Image Upload**: Multer & Cloudinary
 - **Payments**: Razorpay
 - **Caching**: Redis
-- **Security**: Helmet, CORS, Rate Limiting (if added)
 
 ---
 
